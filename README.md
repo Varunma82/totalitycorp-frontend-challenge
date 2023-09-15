@@ -1,5 +1,5 @@
 # Frontend Developer Assignment_Totality Corp
-
+Deployed Link- https://650467690b3a452d8a7747ce--capable-mandazi-17cb59.netlify.app/
     First use the comment (npm install)
     then (npm start) to run in your production environment
 
